@@ -218,4 +218,4 @@ dengbao-csps/
 
 MIT License
 
-Copyright (c) 2026 等保测评 Skill 项目贡献者
+Copyright (c) 2026 等保测评 Skill 项目贡献者 @lingfengz
